@@ -1,2 +1,2 @@
 # WordzApp
-A native word app that fetches words from datamuse using the datamuse apiaa
+A native word app that fetches words from datamuse using the datamuse API
